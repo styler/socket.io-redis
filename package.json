@@ -14,7 +14,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "debug": "~2.6.8",
+    "debug": "~2.6.9",
     "msgpack5": "^3.5.0",
     "redis": "~2.7.1",
     "socket.io-adapter": "~1.1.0",

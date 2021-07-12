@@ -362,9 +362,10 @@ ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
 
-msgpack5@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/msgpack5/-/msgpack5-3.5.0.tgz#193b3e864959a826d33074460c2651d1ed04b07a"
+msgpack5@^3.6.1:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/msgpack5/-/msgpack5-3.6.1.tgz#dd3293d9a3b476d0e2639e0681464b825db2c9ed"
+  integrity sha512-VoY2AaoowHZLLKyEb5FRzuhdSzXn5quGjcMKJOJHJPxp9baYZx5t6jiHUhp5aNRlqqlt+5GXQGovMLNKsrm1hg==
   dependencies:
     bl "^1.2.1"
     inherits "^2.0.3"
@@ -374,10 +375,6 @@ msgpack5@^3.5.0:
 negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
-
-notepack.io@~2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/notepack.io/-/notepack.io-2.0.1.tgz#88deed2264196d9f8d14e7b30419f2d8d932b095"
 
 object-assign@~4.1.1:
   version "4.1.1"

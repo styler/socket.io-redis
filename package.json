@@ -14,10 +14,10 @@
     "test": "mocha"
   },
   "dependencies": {
-    "debug": "~2.6.8",
+    "debug": "~3.1.0",
     "msgpack5": "^3.5.0",
     "redis": "~2.7.1",
-    "socket.io-adapter": "~1.1.0",
+    "socket.io-adapter": "~1.1.1",
     "uid2": "0.0.3"
   },
   "devDependencies": {
